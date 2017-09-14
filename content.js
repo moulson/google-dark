@@ -1,0 +1,1 @@
+if(window.location.href.indexOf(".google.") != -1){document.body.style.backgroundColor = "#222";}
